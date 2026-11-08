@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "cohere-megakernel",
+  "versions": [
+    {
+      "commit": "67d0b9ca22ea3652796b715d1d1863459e0e2c3c",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:06:07.872289+00:00"
+    }
+  ]
+}
