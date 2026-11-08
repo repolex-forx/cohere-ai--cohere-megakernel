@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/cohere-megakernel/commit/67d0b9ca22ea3652796b715d1d1863459e0e2c3c",
       "git:hexsha": "67d0b9ca22ea3652796b715d1d1863459e0e2c3c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T09:06:07.871972+00:00"
     }
   ]
 }
